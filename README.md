@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noel</h1>
+<h1 align="center">Hi 👋, I'm Teenie</h1>
 
 ###
 
@@ -16,15 +16,14 @@
   <li><b>Frontend:</b> React, Vite, Tailwind CSS</li>
   <li><b>Backend:</b> Django, Node.js, Express</li>
   <li><b>Databases:</b> MongoDB, MySQL</li>
-  <li><b>AI / ML:</b> Hugging Face, LoRA, QLoRA, GPTQ</li>
-  <li><b>Systems:</b> Linux, OS internals, Networking</li>
+  <li><b>AI / ML:</b> Hugging Face</li>
+  <li><b>Systems:</b> Linux</li>
   <li><b>Game Dev:</b> Unity (2D)</li>
 </ul>
 
 <h3 align="left">🚀 What I’m Working On</h3>
 <ul>
   <li>Improving backend architecture & system design</li>
-  <li>Experimenting with quantized LLMs and adapters</li>
   <li>Building clean, scalable full-stack applications</li>
 </ul>
 
