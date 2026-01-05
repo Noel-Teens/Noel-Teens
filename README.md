@@ -32,7 +32,9 @@ I build things that live on both the **frontend and backend**, and I enjoy divin
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Noel-Teens&theme=tokyonight&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Noel-Teens&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noel-Teens&layout=compact&theme=tokyonight)
 
 ---
 
