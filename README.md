@@ -52,8 +52,8 @@ End-to-end platform with menus, ordering flow, and an admin dashboard for restau
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Noel-Teens&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noel-Teens&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Noel-Teens&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Noel-Teens&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 &nbsp;
