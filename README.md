@@ -6,48 +6,146 @@
   <hr/>
 </div>
 
-I design and build complete applications — thoughtful UIs in React, scalable APIs in Django and Node.js, and everything in between. I care about system architecture, clean code, and shipping products that actually work.
+I design and build complete applications — from thoughtful user interfaces to scalable backend systems and everything in between. I adapt my tech stack based on project requirements, focusing on clean architecture, maintainable code, and shipping products that actually work.
 
 &nbsp;
 
-### Stack
+<h2 align="center">🧠 Tech Stack</h2>
 
-| Area | Technologies |
-|:---|:---|
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **AI / ML** | ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
-| **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
+<p align="center">
+  <i>⚡ Full-stack developer building across Web, Mobile, AI & Cloud</i>
+</p>
+
+<br/>
+
+<!-- Frontend -->
+<h3>🖥️ Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,vite,tailwind" />
+</p>
+
+<!-- Backend -->
+<h3>⚙️ Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" />
+</p>
+
+<!-- Databases -->
+<h3>🗄️ Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+<!-- Cloud & DevOps -->
+<h3>☁️ Cloud & DevOps</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+</p>
+
+<!-- AI / ML -->
+<h3>🤖 AI / ML</h3>
+<p>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
 &nbsp;
 
-### Projects
+<h2 align="center">🚀 PROJECTS</h2>
 
-**[01 — Library Management System](#)**
+<p align="center">
+  <i>Selected work showcasing full-stack, mobile, and game development</i>
+</p>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📚 Library Management System</h3>
+
+<p>
 Full-stack MERN application for managing book inventory, borrowing records, and returns with authentication.
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+</p>
 
-&nbsp;
+<p>
+<a href="https://github.com/Noel-Teens/Library_Management_System">🧑‍💻 Repository</a>
+</p>
 
-**[02 — AI Healthcare Assistant](#)**
-Conversational assistant for healthcare queries powered by Hugging Face NLP models.
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
 
-&nbsp;
+</td>
 
-**[03 — Restaurant Web Application](#)**
-End-to-end platform with menus, ordering flow, and an admin dashboard for restaurant operations.
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<td width="50%" valign="top">
 
-&nbsp;
+<h3>🎓 CampusPulse</h3>
 
-**[04 — Unity 2D Game](#)**
-2D game with custom mechanics, physics-driven gameplay, and game systems architected in C#.
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+<p>
+<b>One Campus. One App. Every Problem Solved.</b><br/><br/>
+Smart campus mobile app with navigation, issue reporting, announcements, feedback, and AI assistance.
+</p>
 
-&nbsp;
+<p>
+<a href="https://github.com/Noel-Teens/CampusPulse">🧑‍💻 Repository</a>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase" /><br/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square"/>
+<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/FCM-FFCA28?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🍽️ Restaurant Web App</h3>
+
+<p>
+End-to-end platform with menus, ordering flow, and admin dashboard.
+</p>
+
+<p>
+<a href="https://github.com/Noel-Teens/DineFlow_Frontend">Frontend</a> |
+<a href="https://github.com/Noel-Teens/DineFlow_backend">Backend</a>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎮 Snow-Boarder-2D</h3>
+
+<p>
+2D game with physics-driven mechanics built using Unity and C#.
+</p>
+
+<p>
+<a href="https://github.com/Noel-Teens/Snow-Boarder-2D/releases/tag/v1.0.0">🎥 Gameplay</a> |
+<a href="https://github.com/Noel-Teens/Snow-Boarder-2D">Repository</a>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,cs" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
 
 ### GitHub Stats
 
@@ -68,5 +166,5 @@ End-to-end platform with menus, ordering flow, and an admin dashboard for restau
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teenie-rod-joshua-bb0bbb327/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/teenie-rod-joshua)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/noel_teens)
