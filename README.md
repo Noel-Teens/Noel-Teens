@@ -1,19 +1,16 @@
 <div align="center">
   <h1>Teenie Rod Joshua</h1>
   <p>
-    <img src="https://img.shields.io/badge/Full--Stack%20Developer-1a1a2e?style=flat-square&color=0d1117&labelColor=0d1117&logo=code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CS%20Student-0d1117?style=flat-square"/>
-    <img src="https://img.shields.io/badge/AI%20Explorer-0d1117?style=flat-square"/>
+    <code>Full-Stack Developer &nbsp;/&nbsp; CS Student &nbsp;/&nbsp; AI Explorer</code>
   </p>
+  <hr/>
 </div>
 
----
-
-> I design and build complete applications — thoughtful UIs in React, scalable APIs in Django and Node.js, and everything in between. I care about system architecture, clean code, and shipping products that actually work.
+I design and build complete applications — thoughtful UIs in React, scalable APIs in Django and Node.js, and everything in between. I care about system architecture, clean code, and shipping products that actually work.
 
 &nbsp;
 
-### 🛠 Stack
+### Stack
 
 | Area | Technologies |
 |:---|:---|
@@ -26,7 +23,7 @@
 
 &nbsp;
 
-### 📁 Projects
+### Projects
 
 **[01 — Library Management System](#)**
 Full-stack MERN application for managing book inventory, borrowing records, and returns with authentication.
@@ -52,15 +49,24 @@ End-to-end platform with menus, ordering flow, and an admin dashboard for restau
 
 &nbsp;
 
-### 📌 Currently focused on
+### GitHub Stats
 
-- Improving **backend architecture** and **system design**
-- Building scalable, production-ready full-stack applications
-- Exploring **AI integrations** in real-world projects
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</div>
 
 &nbsp;
 
-### 🤝 Connect
+### Currently focused on
+
+- Improving backend architecture and system design
+- Building scalable, production-ready full-stack applications
+- Exploring AI integrations in real-world projects
+
+&nbsp;
+
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teenie-rod-joshua-bb0bbb327/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/noel_teens)
