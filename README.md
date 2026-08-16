@@ -147,13 +147,6 @@ End-to-end platform with menus, ordering flow, and admin dashboard.
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Noel-Teens&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Noel-Teens&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
-
 &nbsp;
 
 ### Currently focused on
